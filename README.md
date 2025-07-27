@@ -100,4 +100,6 @@ Username: sa, Password: (leave blank)
 🧑 Author
 Munna Aziz Mondal
 
-LinkedIn: https://www.linkedin.com/in/munna-aziz-mondal-061b95212/
+## 🔗 Connect with Me
+
+👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/munna-aziz-mondal-061b95212/)
