@@ -102,4 +102,4 @@ Munna Aziz Mondal
 
 ## 🔗 Connect with Me
 
-👉 [Connect with me on LinkedIn](https://www.linkedin.com/in/munna-aziz-mondal-061b95212/)
+[LinkedIn](https://www.linkedin.com/in/munna-aziz-mondal-061b95212/)
